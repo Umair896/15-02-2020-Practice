@@ -72,3 +72,12 @@
     right: 25px;
     top: 25px; 
 }
+.square{
+    background-color: chocolate;
+    color: coral;
+    flex-direction: row;
+    float: right;
+    width: 200px;
+    height: 100px;
+    justify-content: center;
+}
